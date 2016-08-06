@@ -1,0 +1,29 @@
+_repo: An-Appeal-to-the-Christian-Women-of-the-South_9915
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grimké, Angelina Emily
+    aliases:
+    - Grimke, Angelina Emily
+    - Grimké, A. E. (Angelina Emily)
+    - Weld, Angelina Grimké
+    birthdate: 1805
+    deathdate: 1879
+    gutenberg_agent_id: '3200'
+    url: http://www.gutenberg.org/2009/agents/3200
+    wikipedia: http://en.wikipedia.org/wiki/Angelina_Grimk%C3%A9
+description: ''
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9915'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Slavery -- United States'
+- GITenberg
+title: An Appeal to the Christian Women of the South
+url: http://www.gutenberg.org/ebooks/9915
